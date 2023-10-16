@@ -1,6 +1,6 @@
 # Fairer Coffee (Frontend Service)
 
-This is the frontend service for the "Fairer Coffee" project. For the back-end part of the project, please visit [Project: X link](https://github.com/project-x).
+This is the frontend service for the "Fairer Coffee" project. For the back-end part of the project, please visit [this link](https://github.com/sobr037/CapstoneBackend)
 
 This backend service is built using Node.js and requests data from the backed service using API Calls. 
 It relies on a frontend MUI library to speed up development time, you can [find this library here.](https://demos.creative-tim.com/soft-ui-dashboard-pro-react/#/dashboards/default)
